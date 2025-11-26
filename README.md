@@ -8,9 +8,11 @@ Mediante un análisis automático sencillo, se calculan métricas básicas de co
 Así pues, se pretende aportar una herramienta cuantitativa que refute o apoye los análisis comparativos cualitativos entre textos nacidos en entornos distintos. Incluso, podría ser útil para la clasificación de los distintos entornos digitales según la calidad literaria o la oralidad y expresividad gráfica de cada uno, puesto que, en principio, son conceptos opuestos.
 
 
-Funcionamiento
+## Funcionamiento
+
 Insertar el texto clásico en la variable text_classic. Insertar el texto nativo digital en la variable text_digital.
 Dependiendo del idioma en el cual estén escritos los textos a comparar, debería modificarse la lista de muletillas.
 
-Pendiente de mejorar
+### Pendiente de mejorar
+
 Ampliar lista de muletillas y probar con textos más grandes.
